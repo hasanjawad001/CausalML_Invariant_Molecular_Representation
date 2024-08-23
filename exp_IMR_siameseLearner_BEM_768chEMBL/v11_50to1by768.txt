@@ -1,0 +1,4 @@
+from v17_new to v17_new2:
+env = [0]
+num_iters = 500
+lr = [less options]
