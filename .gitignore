@@ -107,4 +107,5 @@ exp_IMR_siameseLearner_FSM_768chEMBL/datasets/
 exp_IMR_siameseLearner_FSM_768chEMBL/*.pkl
 #exp_IMR_siameseLearner_FSM_768chEMBL/*.txt
 #
+.ipynb_checkpoints/*
 
